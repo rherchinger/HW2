@@ -1,5 +1,7 @@
-body {background-color: black; color: yellow}
+body {background-color: black; color: yellow;}
 
-/*h1 {color: yellow}
-
-h2 {color: yellow}*/
+img {
+    border: 1px solid red;
+    border-radius: 4px;
+    padding: 5px;
+    width: 500px;}
