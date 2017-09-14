@@ -12,3 +12,7 @@ ul {margin: 0;}
   text-align:left; /* left justifies the text inside of the div */
   padding:20px;
 }
+
+.alignleft{text-align:left;}
+
+.aligncenter{text-align:left;}
