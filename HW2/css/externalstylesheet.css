@@ -1,0 +1,15 @@
+body {background-color: black; color: yellow;}
+
+.indexcolor{color:gray;}  /*changes color of index*/
+
+img {
+    border: 5px solid red;
+    border-radius: 4px;
+    padding: 5px;
+    width: 500px;}
+    
+h1 {font-family: Arial;}
+
+h1.uppercase {text-transform: uppercase;}
+
+h2 {text-shadow: 2px 2px red;}
