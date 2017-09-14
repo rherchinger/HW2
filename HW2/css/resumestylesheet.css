@@ -1,5 +1,6 @@
 body {background-color: black; color:yellow;}
 
+.indexcolor{color:gray;}  /*changes color of index*/
 
 p {margin: 0;}
 ul {margin: 0;}
