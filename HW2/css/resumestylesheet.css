@@ -4,3 +4,11 @@ body {background-color: black; color:yellow;}
 
 p {margin: 0;}
 ul {margin: 0;}
+
+.content{
+  background-color:gray;
+  width:60%; /* set the width you want for the div */
+  margin: 0 auto; /* used to center the div */
+  text-align:left; /* left justifies the text inside of the div */
+  padding:20px;
+}
